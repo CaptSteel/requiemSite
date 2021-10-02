@@ -62,6 +62,17 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important; }
 
+.logotitle{
+  height:200px;
+  width:500px;
+}
+
+.logoco{
+  height:200px;
+  width:500px;
+    margin: 20px;
+}
+
 hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
